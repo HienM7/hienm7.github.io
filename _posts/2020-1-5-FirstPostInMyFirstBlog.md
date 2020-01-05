@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First post in my blog
+categories: gioithieu bandonghanh
 ---
 # Beginning
 Today, i have just created my blog.
