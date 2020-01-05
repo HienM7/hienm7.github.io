@@ -3,7 +3,7 @@ layout: post
 title: First post in my blog
 ---
 # Beginning
-Today, i have just create my blog.
+Today, i have just created my blog.
 Im *Helios*. 
 
 # My Partner,
